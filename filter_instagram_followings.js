@@ -70,7 +70,7 @@ instructions.innerHTML = `
         <li>Click <strong>Download or transfer information</strong>.</li>
         <li>Choose the check box for <strong>Followers and following</strong> (deselect all other options).</li>
         <li>Click <strong>Download to device</strong>.</li>
-        <li>For the <strong>Date range</strong> dropdown, select <strong>Last week</strong> (or the smallest date interval available) and save.</li>
+        <li>For the <strong>Date range</strong> dropdown, select <strong>All time</strong>.</li>
         <li>For the <strong>Format</strong> dropdown, select <strong>HTML</strong> and save.</li>
         <li>For <strong>Media quality</strong>, select <strong>Low</strong> (to speed up the download) and save.</li>
         <li>Click <strong>Create files</strong> and wait for the email notification that your file is ready (might take a while).</li>
