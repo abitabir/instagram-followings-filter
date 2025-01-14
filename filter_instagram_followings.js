@@ -89,7 +89,7 @@ instructions.innerHTML = `
         <li>Upload your <strong>following.html</strong> file from your Instagram data export.</li>
         <li>Click the <strong>Process Files</strong> button once both files are uploaded.</li>
         <li>View the generated HTML in the preview area.</li>
-        <li>Download the filtered HTML file via the<strong>Download Filtered Following</strong> button to save locally.</li>
+        <li>Download the filtered HTML file via the <strong>Download Filtered Following</strong> button to save locally.</li>
         <li>Open the downloaded file in a browser to view locally.</li>
     </ol>
 `;
