@@ -71,10 +71,10 @@ instructions.innerHTML = `
         <li>Select <strong>Some of your information</strong>.</li>
         <li>Choose the check box for <strong>Followers and following</strong> (deselect all other options).</li>
         <li>Click <strong>Download to device</strong>.</li>
-        <li>For the <strong>Date range</strong> dropdown, select <strong>All time</strong>.</li>
+        <li>For the <strong>Date range</strong> dropdown, select <strong>All time</strong> and save.</li>
         <li>For the <strong>Format</strong> dropdown, select <strong>HTML</strong> and save.</li>
         <li>For <strong>Media quality</strong>, select <strong>Low</strong> (to speed up the download) and save.</li>
-        <li>Click <strong>Create files</strong> and wait for the email notification that your file is ready (might take a while).</li>
+        <li>Click <strong>Create files</strong> and wait for the email notification that your file is ready (this might take a while).</li>
         <li>Once the status changes to <strong>Available downloads</strong>, click to download the ZIP file.</li>
         <li>Extract the downloaded ZIP file.</li>
         <li>Navigate to the <strong>connections</strong> folder, then to the <strong>followers_and_following</strong> folder.</li>
