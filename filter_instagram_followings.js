@@ -68,6 +68,7 @@ instructions.innerHTML = `
         <li>Navigate to <strong>Your information and permissions</strong>.</li>
         <li>Select <strong>Download your information</strong>.</li>
         <li>Click <strong>Download or transfer information</strong>.</li>
+        <li>Select <strong>Some of your information</strong>.</li>
         <li>Choose the check box for <strong>Followers and following</strong> (deselect all other options).</li>
         <li>Click <strong>Download to device</strong>.</li>
         <li>For the <strong>Date range</strong> dropdown, select <strong>All time</strong>.</li>
